@@ -4,7 +4,7 @@ let stars;
 let planet;
 
 function preload() {
-    img = loadImage("./rocket.png");
+    img = loadImage("src/assets/rocket.png");
 }
 
 function setup() {
